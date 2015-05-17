@@ -1,3 +1,6 @@
 .home-slider .slide-content h1:after{
     content:none;
 }
+.force-black h1,.force-black h1 span,.force-black p{
+    color:black;
+}
